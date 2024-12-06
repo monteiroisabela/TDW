@@ -1,0 +1,16 @@
+{
+  "name": "ficha_servidorbackend",
+  "version": "1.0.0",
+  "description": "tutorial da ficha da aula 05/11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabela",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  }
+}
